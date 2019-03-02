@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/options_share_app"
+        android:title="@string/options_share_app" />
+    <item
+        android:id="@+id/options_update_mobile_number"
+        android:title="@string/options_update_mobile_number" />
+    <item
+        android:id="@+id/options_update_location"
+        android:title="@string/options_set_location" />
+    <item
+        android:id="@+id/options_my_orders"
+        android:title="@string/options_my_orders" />
+    <item
+        android:id="@+id/options_contact_us"
+        android:title="@string/options_contact_us" />
+</menu>

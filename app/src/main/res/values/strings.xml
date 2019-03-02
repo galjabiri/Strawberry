@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">StrawberryRoad</string>
+    <string name="title_home">Catalogue</string>
+    <string name="title_dashboard">Cart</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="options_update_mobile_number">Mobile Number</string>
+    <string name="options_share_app">Share</string>
+    <string name="options_set_location">Set Location</string>
+    <string name="options_my_orders">My Orders</string>
+    <string name="options_contact_us">Contact Us</string>
+    <string name="title_activity_location">Location</string>
+</resources>

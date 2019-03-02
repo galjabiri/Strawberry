@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">اسٹرابیری</string>
+    <string name="title_home">نگارخانہ</string>
+    <string name="title_dashboard">ٹوکری</string>
+    <string name="title_notifications">اطلاعات</string>
+    <string name="options_update_mobile_number">موبائل نمبر</string>
+    <string name="options_share_app">لنک بھیجیں</string>
+    <string name="options_set_location">ترسیل کا پتہ</string>
+    <string name="options_my_orders">میری خریداری</string>
+    <string name="options_contact_us">مدد</string>
+</resources>
